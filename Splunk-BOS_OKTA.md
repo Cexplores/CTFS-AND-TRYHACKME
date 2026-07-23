@@ -1,0 +1,2 @@
+# Splunk Boss of the SOC: OKTA 
+## In this partner experience, you’re assuming the identity of a SOC Analyst for Coffeecase, one of Okta’s newest customers. Coffeecase is a 10-person, entirely-remote company that curates custom, subscription shipments of gourmet coffee to customers around the US. They are running Okta’s latest cloud-native, workforce identity solution: Okta Identity Engine, as well as Okta’s Privileged Access Management solution, Advanced Server Access (ASA). All of the System Logs from these two solutions are ingested in Splunk Enterprise.
