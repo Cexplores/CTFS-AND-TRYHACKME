@@ -37,4 +37,13 @@ Find India and view the longitude and latitude.
 #### 18°36’57”N,73°43’42”E
 
 
-  
+
+### Question 4:
+How many different applications do Coffeecase employees use Okta SSO to access (with the exclusion of any “Okta” apps)?
+Answer: Select OKTA stats, Change the time and the # to show:
+The logs show 13 apps so, set it to 20. 
+<img width="1857" height="671" alt="image" src="https://github.com/user-attachments/assets/2371b05f-83e7-4379-b0a9-a53ada52fee1" />
+
+I exported and counted all apps that were not okta.
+#### 6
+
